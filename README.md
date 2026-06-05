@@ -1,4 +1,4 @@
-# 🎬 BookMeraShow
+#  BookMeraShow
 
 BookMeraShow is a responsive frontend clone of the popular entertainment and movie ticket booking platform **BookMyShow**.  
 This project is built using **HTML, CSS, and JavaScript** and focuses on creating a clean, modern, and responsive user interface.
