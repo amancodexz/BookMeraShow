@@ -34,7 +34,12 @@ https://github.com/amancodexz/BookMeraShow
 - CSS Grid
 
 ---
+📜 Disclaimer
 
+This project is created for educational and practice purposes only.
+BookMyShow and all related trademarks, logos, and assets belong to their respective owners.
+
+---
 ## 📂 Project Structure
 
 ```bash
@@ -45,7 +50,3 @@ BookMeraShow/
 ├── script.js
 └── README.md
 ---
-📜 Disclaimer
-
-This project is created for educational and practice purposes only.
-BookMyShow and all related trademarks, logos, and assets belong to their respective owners.
